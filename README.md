@@ -34,4 +34,4 @@ A simple frontend web application to count words and characters in real-time.
 
 ---
 
-⭐ *Feel free to explore and customize the code!*
+
